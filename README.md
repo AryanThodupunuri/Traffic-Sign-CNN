@@ -1,4 +1,4 @@
-# Using Convolutional Neural Network to Classify Traffic Sign Images
+# Convolutional Neural Network to Classify Traffic Sign Images
 
 This project aims to train a LeNet-5 Convolutional Neural Network to classify user-provided traffic signs. The model is trained and tested on approximately 40,000 real photos encompassing 43 types of German traffic signs, sourced from The German Traffic Sign Recognition Benchmark (GTSRB): (https://benchmark.ini.rub.de/gtsrb_dataset.html). Overall, this project was great because it taught me how to use a convolutional neural network to classify any images. I need to learn the process for understanding how to choose the optimal number of hidden layers and nodes. Maybe later on, I can experiment by adding different hyperparameters like learning rate, batch size, and optimizer settings to optimize model performance. I also wonder what the model would have looked like if I used pre-trained models such as ResNET, VGG, or MobileNET as feature extractors and then fine-tuning them for classification.
 
