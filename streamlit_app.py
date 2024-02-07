@@ -112,9 +112,7 @@ def main():
     Data was taken from The German Traffic Sign Recognition Benchmark (GTSRB):
     https://benchmark.ini.rub.de/gtsrb_dataset.html
     
-    Source code on GitHub: https://github.com/AndriiGoz/traffic_signs_classification
     
-    Author: Andrii Gozhulovskyi
     """)
 
 
