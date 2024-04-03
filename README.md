@@ -11,4 +11,4 @@ Notebook with built and trained model: **traffic_signs_classification_lenet5.ipy
 
 Article: https://towardsdatascience.com/classification-of-traffic-signs-with-lenet-5-cnn-cb861289bd62
 
-Link to Streamlit app: https://share.streamlit.io/andriigoz/traffic_signs_classification
+
